@@ -2,12 +2,12 @@
 
 
 
-### Front-end repository 🙋‍♀️
+### Front-end repository ⭐
 
 [Kuarere-frontend](https://github.com/KuarereLocations/Kuarere-frontend)
 
 
-### Front-backend repository 🌈
+### Back-end repository 📓
 
 [Kuarere-backend](https://github.com/KuarereLocations/Kuarere-backend)
 
