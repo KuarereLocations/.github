@@ -1,12 +1,25 @@
-## Hi there 👋
+## Hi everyone, this is Kuarere 👋
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Front-end repository 🙋‍♀️
+
+[Kuarere-frontend](https://github.com/KuarereLocations/Kuarere-frontend)
+
+
+### Front-backend repository 🌈
+
+[Kuarere-backend](https://github.com/KuarereLocations/Kuarere-backend)
+
+
+### Cloud-functions repository 👩‍💻
+
+[cloud-functions](https://github.com/KuarereLocations/cloud-functions)
+
+### CMS repository 🍿
+[cms-keystone](https://github.com/KuarereLocations/cms-keystone-backoffice)
+
+
+### WhatsappApi repository 🧙
+[whatsapp-api](https://github.com/KuarereLocations/whatsapp-api)
+
