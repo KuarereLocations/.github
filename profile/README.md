@@ -16,8 +16,8 @@
 [cloud-functions](https://github.com/KuarereLocations/cloud-functions)
 
 ### Go-Cloud-functions repository 🔰
-[cloud-functions](https://github.com/KuarereLocations/go-cloud-functions)
-
+[go-cloud-functions](https://github.com/KuarereLocations/go-cloud-functions) 
+* backup-database
 
 ### CMS repository 🍿
 [cms-keystone](https://github.com/KuarereLocations/cms-keystone-backoffice)
