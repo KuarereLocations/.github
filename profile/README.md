@@ -23,6 +23,6 @@
 [cms-keystone](https://github.com/KuarereLocations/cms-keystone-backoffice)
 
 
-### WhatsappApi repository 🧙
-[whatsapp-api](https://github.com/KuarereLocations/whatsapp-api)
+### Kuarere-services-api repository 🧙
+[kuarere-services-api](https://github.com/KuarereLocations/kuarere-services-api)
 
