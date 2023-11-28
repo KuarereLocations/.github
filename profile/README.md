@@ -27,4 +27,5 @@
 [kuarere-services-api](https://github.com/KuarereLocations/kuarere-services-api)
 * WhatsappApi
 * Auto cancel booking
+* Wkhtml to pdf
 
