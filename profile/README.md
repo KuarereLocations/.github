@@ -19,13 +19,21 @@
 [go-cloud-functions](https://github.com/KuarereLocations/go-cloud-functions) 
 * backup-database
 
-### CMS repository 🍿
+
+### CMS repository 🙆
 [cms-keystone](https://github.com/KuarereLocations/cms-keystone-backoffice)
+
+### Doc Kuarere repository 📕
+[doc-kuarere](https://github.com/KuarereLocations/doc-kuarere)
 
 
 ### Kuarere-services-api repository 🧙
 [kuarere-services-api](https://github.com/KuarereLocations/kuarere-services-api)
 * WhatsappApi
-* Auto cancel booking
-* Wkhtml to pdf
+* Auto cancel bookings
+* CheckAdminEmailsNotificationIsSuspend
+* CheckNotValidEmails
+* MeanUsersController
+* BookingAutoValorationController
+
 
