@@ -25,6 +25,8 @@
 
 ### Doc Kuarere repository 📕
 [doc-kuarere](https://github.com/KuarereLocations/doc-kuarere)
+* SSL certificate
+* SSL documentation
 
 
 ### Kuarere-services-api repository 🧙
