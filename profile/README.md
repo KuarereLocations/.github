@@ -15,9 +15,9 @@
 ### Cloud-functions repository 👩‍💻
 [cloud-functions](https://github.com/KuarereLocations/cloud-functions)
 
-### Go-Cloud-functions repository 🔰
+### Go-Cloud-functions (Archived) 🔰
 [go-cloud-functions](https://github.com/KuarereLocations/go-cloud-functions) 
-* backup-database
+* backup-database old (Archived)
 
 
 ### CMS repository 🙆
@@ -37,5 +37,6 @@
 * CheckNotValidEmails
 * MeanUsersController
 * BookingAutoValorationController
+* backup-database
 
 
